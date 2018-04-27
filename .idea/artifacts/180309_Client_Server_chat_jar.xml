@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="180309_Client_Server_chat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/180309_Client_Server_chat_jar</output-path>
+    <root id="archive" name="180309_Client_Server_chat.jar">
+      <element id="module-output" name="180309_Client_Server_chat" />
+    </root>
+  </artifact>
+</component>
